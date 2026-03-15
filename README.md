@@ -68,3 +68,7 @@ Pronouns: **She/Her**
 ---
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Shaina23Awasthi&icon=5&color=6)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Shaina23Awasthi/Shaina23Awasthi/blob/output/github-contribution-grid-snake.svg)
