@@ -71,4 +71,4 @@ Pronouns: **She/Her**
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Shaina23Awasthi/Shaina23Awasthi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Shaina23Awasthi/Shaina23Awasthi/output/snake.svg)
